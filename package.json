@@ -1,0 +1,31 @@
+{
+  "name": "f",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "supertest": "^3.0.0",
+    "tape": "^4.8.0"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1",
+    "tape": "^4.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haseo0000/WebApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haseo0000/WebApi/issues"
+  },
+  "homepage": "https://github.com/haseo0000/WebApi#readme",
+  "description": ""
+}
